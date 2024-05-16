@@ -23,7 +23,7 @@
     <div class="admin">
         <div class="row">
             <div class="col adminIletisimTablo">
-                <?php if ($_POST["name"] == "B221210577@sakarya.edu.tr" && $_POST["password"] == "Nurcan5536997966#") {
+                <?php if ($_POST["name"] == "B221210577@sakarya.edu.tr" && $_POST["password"] == "kıhdyjeı73537") {
                     echo "Hoşgeldin " . $_POST["name"];
                     echo "<br>Girişin Onaylandı.";
                 } else {
